@@ -36,8 +36,8 @@
     </editor-bookmarks>
     <open-files xmlns="http://www.netbeans.org/ns/projectui-open-files/2">
         <group>
-            <file>file:/D:/Projects/EM_PIC32-avrdude-bootloader/bootloaders/configs/majenko.h</file>
-            <file>file:/D:/Projects/EM_PIC32-avrdude-bootloader/bootloaders/BoardConfig.h</file>
+            <file>file:/D:/Projects/EM_PIC32-avrdude-bootloader/bootloaders/MX1-2-USB-BLE-256K-boot-linkerscript.ld</file>
+            <file>file:/D:/Projects/EM_PIC32-avrdude-bootloader/bootloaders/chipKIT-Bootloaders.X/dist/RGB_STATION_USB_BLE/production/MX7cK.X.production.map</file>
         </group>
     </open-files>
 </project-private>

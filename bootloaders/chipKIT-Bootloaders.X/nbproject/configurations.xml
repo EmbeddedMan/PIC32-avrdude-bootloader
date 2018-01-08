@@ -32,6 +32,7 @@
       <itemPath>../MX3-7-split-boot-linkerscript.ld</itemPath>
       <itemPath>../MX1-2-boot-linkerscript.ld</itemPath>
       <itemPath>../MZ-boot-linkerscript.ld</itemPath>
+      <itemPath>../MX1-2-USB-BLE-256K-boot-linkerscript.ld</itemPath>
     </logicalFolder>
     <logicalFolder name="SourceFiles"
                    displayName="Source Files"
@@ -9553,6 +9554,8 @@
         <makeCustomizationEnableLongLines>false</makeCustomizationEnableLongLines>
         <makeCustomizationNormalizeHexFile>true</makeCustomizationNormalizeHexFile>
       </makeCustomizationType>
+      <item path="../MX1-2-USB-boot-linkerscript.ld" ex="true" overriding="false">
+      </item>
       <item path="../MX1-2-boot-linkerscript.ld" ex="true" overriding="false">
         <C32>
         </C32>
